@@ -1,0 +1,23 @@
+body {
+  background: black;
+  color: orange;
+  font-family: Arial;
+  text-align: center;
+}
+
+#game {
+  border: 3px solid orange;
+  padding: 20px;
+  width: 300px;
+  margin: auto;
+}
+
+button {
+  background: orange;
+  color: black;
+  border: none;
+  padding: 10px;
+  margin: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
